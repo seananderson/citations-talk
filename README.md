@@ -24,7 +24,7 @@ Cite a paper for its main finding, not (usually) the other things in it (e.g. th
 
 This is a good time to think about what that *one thing* is that someone else is going to cite your paper for. Make sure to hit the reader over the head with that one thing multiple times.
 
-If you cite, you should read it. At least skim it and have a good grasp of the paper yourself. I.e. don't rely on someone else's interpretation. This is a great opportunity to handle some old books in the library.
+If you cite it you should read it. At least skim it and have a good grasp of the paper yourself. Don't rely on someone else's interpretation. This is a great opportunity to handle some old books in the library.
 
 ## Keeping up with stuff
 
@@ -106,7 +106,7 @@ Throw papers into broad folders for papers you're writing or potential future pa
 
 Rely on search in your citation manager as much as possible. Is it in the title? Great, no need to tag it. Is it not in the title but something you might want to search? Tag it, or throw words into a notes field.
 
-Consider a tag/folder strategy. Tags can work well for broad topics (e.g. diversity-stability); folders for short-term projects (thesis chapter 1). Keep in mind that most reference manager folders aren't really folders. I.e. you can have the same folder in many folders.
+Consider a tag/folder strategy. Tags can work well for broad topics (e.g. diversity-stability); folders for short-term projects (thesis chapter 1). Keep in mind that most reference manager folders aren't really folders. I.e. you can have the same paper in multiple folders.
 
 Smart folders: use them. Smart folders are a custom search you set up. The folder then stays up to date as the papers change.
 
