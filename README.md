@@ -14,29 +14,35 @@ Use citations to acknowledge other's work, aid the reader to investigate more, a
 
 ## Who to cite
 
-Don't be afraid to cite fundamental papers.
+Don't be afraid to cite fundamental (i.e. old) papers.
 
 Citing a fundamental paper plus a more recent paper is a common approach.
 
-Remember you can't cite everything. Rarely are you completely comprehensive on a topic.
+Remember you can't cite everything. Rarely will you be completely comprehensive on a topic.
 
-Cite a paper for their main finding, not (usually) the other things they talk about (e.g. the introduction).
+Cite a paper for its main finding, not (usually) the other things in it (e.g. the introduction). A common exception to this is citing a paper for an idea proposed in the discussion section.
 
-This is a good time to think about what the one thing someone else is going to cite your paper for? Make that point clear.
+This is a good time to think about what that *one thing* is that someone else is going to cite your paper for. Make sure to hit the reader over the head with that one thing multiple times.
+
+If you cite, you should read it. At least skim it and have a good grasp of the paper yourself. I.e. don't rely on someone else's interpretation. This is a great opportunity to handle some old books in the library.
 
 ## Keeping up with stuff
 
-RSS feeds. If you don't have one already, try Feedly.
+Use [RSS feeds](https://www.youtube.com/watch?v=0klgLsSxGsU) to keep up with papers. If you don't have an RSS reader already, try [Feedly](http://feedly.com/).
 
-If available, use smart folders in RSS readers to highlight topics you're interested in.
+If your feed reader has them, use smart folders to highlight topics you're interested in. E.g. Filter for all papers that have the words "diversity" in the title or abstract or filter for all papers by a set of authors you're interested in.
 
 Don't drown in all the papers. Don't feel guilty skimming and marking all as read. Most important papers you'll stumble on again later.
+
+If you really don't want to use RSS, then sign up for email table-of-contents alerts.
 
 Read narrowly and broadly. Read intensely on your specific topic. But, also occasionally read outside your topic. This is important for your development as a scientist. It gives you the tools and awareness to ask interesting questions and solve problems creatively. 
 
 One way to read broadly, is to follow some overview-style journals like Trends in Ecology and Evolution and Frontiers in Ecology and the Environment. Many ecology journals now have review articles too.
 
-Use citation alerts. The Google Scholar ones are good. You set up search terms and get an email whenever new papers come out with those terms. Or, pick three or four key papers on your topic, and get notified whenever someone new cites those papers.
+If you really want to read broadly, try sitting down at the library occasionally and flipping through the latest journal issues. You're much more likely to stumble on something outside your current interests this way.
+
+Use citation alerts. The Google Scholar ones are good. You set up search terms and get an email whenever new papers come out with those terms. Or, pick three or four key papers on your topic, and get notified whenever someone new cites those papers. This will capture new papers in journals you don't follow in your RSS feeds (or in your email table-of-contents alerts).
 
 ## Finding stuff
 
