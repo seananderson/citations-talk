@@ -32,7 +32,7 @@ This is a good time to think about what that *one thing* is that someone else is
 
 If you cite it you should read it. At least skim it and have a good grasp of the paper yourself. Don't rely on someone else's interpretation. This is a great opportunity to handle some old books in the library.
 
-# Keeping up with stuff
+# Keeping up with the literature
 
 Use [RSS feeds](https://www.youtube.com/watch?v=0klgLsSxGsU) to keep up with papers. If you don't have an RSS reader already, try [Feedly](http://feedly.com/).
 
