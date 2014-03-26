@@ -54,7 +54,7 @@ Use citation alerts. The Google Scholar ones are good. You set up search terms a
 
 There are many different strategies for note taking. What's important is that you do take notes and that you have some sort of system so that you can quickly find them again.
 
-Evernote is a popular option.
+[Evernote](https://evernote.com) is a popular option.
 
 Some citation managers will let you store your notes with your citations.
 
@@ -69,6 +69,12 @@ As you read, keep a running list of other papers you see that you want to read. 
 # Finding stuff
 
 Google Scholar is increasingly becoming the standard. It's a great place to start. Also see the "cited by" link for any given Google Scholar paper.
+
+Install this bookmarklet (see instructions in the "Downloading papers off campus" section):
+
+    javascript:location = 'http://scholar.google.com/scholar?q='+escape(document.forms%5B0%5D.elements%5B'q'%5D.value);
+
+This bookmarklet will take a regular Google search and turn it into a Google Scholar search.
 
 The Web of Science is probably the best high-quality search engine for science papers. Also see its "cited by" search option. Try sorting by descending citations to get a feeling for some of the main highly-cited papers on a topic. Also try sorting by published date to look for recent papers and find seminal papers on a topic.
 
