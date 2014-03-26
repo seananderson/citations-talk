@@ -112,7 +112,11 @@ Otherwise, if you don't already have a favourite citation manager, then try a fe
 
 ## Using your citation manager effectively
 
+You should only rarely be entering citation meta-data by hand (like the authors, title, and journal). Most citation managers can recognize many PDFs and find meta-data for you. In other cases, you can download the citation data and PDF separately from the journal website and associate the two in the citation manager.
+
 Try and weed out garbage as you go (incorrect meta-data) or you're in for a world of hurt later.
+
+Most citation managers can deal with journal abbreviations for you.
 
 On the other hand, you don't have to save everything you read. I save a PDF in my citation manager if I think I might cite it someday (or if I think it's really cool and I might want to re-read it or share it someday).
 
