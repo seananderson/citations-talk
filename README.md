@@ -1,20 +1,26 @@
-# Citations and Citation Managers
+% Citations and Citation Managers
+% Sean C. Anderson
+% March 2014
 
-## When to cite
+# When to cite
 
-Opinions vary widely on this and it's partly an art.
+Opinions vary widely on when and where to cite and it's partly an art. With that in mind:
 
-Cite a paper when first introducing a concept. If you keep talking about a concept then you probably won't cite the same paper every time. If you keep talking about a referenced topic in a paragraph, one approach is to cite at beginning and end.
+Cite a paper when first introducing a concept. 
 
-Be weary of over-citing. Don't use your citations like crutches.
+If you keep talking about a concept then you probably won't cite the same paper every time. If you keep talking about a referenced topic in a paragraph, one approach is to cite at beginning and end of the paragraph.
+
+Cite as specifically as possible. E.g. "Method X has been used with cats (Johnson 2010), dogs (Smith 2010), and mice (Andrews 2011)." But, if this level of specificity is not required, move citations to the end of sentences to make your sentences easier to read. E.g. "Method X has previously been used with mice, but may not apply to dogs (Andrews 2011)." However, if the citation doesn't apply to everything before it, you'll need to sacrifice readability for correctness: "Method X has previously been used with mice (Andrews 2011), but may not apply to dogs.".
+
+Be weary of over-citing. Don't use your citations as crutches.
 
 You should be weaving a narrative around your citations, not leaving a literature dump for your reader. Interpret your citations, critically evaluate your citations, and show how they fit into your story.
 
 Use citations to acknowledge other's work, aid the reader to investigate more, and convince the reader you know what you're talking about. But in the end, remember the paper is about your science, your writing, and your thoughts. So don't cite to show off and don't cite to hide.
 
-## Who to cite
+# Who to cite
 
-Don't be afraid to cite fundamental (i.e. old) papers.
+Don't be afraid to cite fundamental (old) papers.
 
 Citing a fundamental paper plus a more recent paper is a common approach.
 
@@ -26,13 +32,13 @@ This is a good time to think about what that *one thing* is that someone else is
 
 If you cite it you should read it. At least skim it and have a good grasp of the paper yourself. Don't rely on someone else's interpretation. This is a great opportunity to handle some old books in the library.
 
-## Keeping up with stuff
+# Keeping up with stuff
 
 Use [RSS feeds](https://www.youtube.com/watch?v=0klgLsSxGsU) to keep up with papers. If you don't have an RSS reader already, try [Feedly](http://feedly.com/).
 
-If your feed reader has them, use smart folders to highlight topics you're interested in. E.g. Filter for all papers that have the words "diversity" in the title or abstract or filter for all papers by a set of authors you're interested in.
+If your feed reader has them, use smart folders to highlight topics you're interested in. E.g. filter for all papers that have some keyword in the title or abstract or filter for all papers by a set of authors you're interested in.
 
-Don't drown in all the papers. Don't feel guilty skimming and marking all as read. Most important papers you'll stumble on again later.
+Don't drown in all the papers. Don't feel guilty skimming titles and marking all as read if you need to. You'll stumble on most important papers again later --- especially if you follow the other pieces of advice here.
 
 If you really don't want to use RSS, then sign up for email table-of-contents alerts.
 
@@ -44,29 +50,37 @@ If you really want to read broadly, try sitting down at the library occasionally
 
 Use citation alerts. The Google Scholar ones are good. You set up search terms and get an email whenever new papers come out with those terms. Or, pick three or four key papers on your topic, and get notified whenever someone new cites those papers. This will capture new papers in journals you don't follow in your RSS feeds (or in your email table-of-contents alerts).
 
-## Finding stuff
+# Taking notes
 
-TO BE EXPANDED
+There are many different strategies for note taking. What's important is that you do take notes and that you have some sort of system so that you can quickly find them again.
 
-Google Scholar
+Evernote is a popular option.
 
-Web of Science
+Some citation managers will let you store your notes with your citations.
 
-Web of Science papers that cited
+There are at least two common kinds of notes on what you read: (1) notes you want to keep with the literature so you can remember what you thought when you come back to the paper later for some project, and (2) notes on what you want to take away from a paper for a specific project you're working on.
 
-Work your way backwards and forwards until you get diminishing returns
+I tend to keep the first kind of notes in my reference manager and the second type in Evernote, a plaintext document, or a spreadsheet.
 
-Trevor's note taking format
+When you're taking notes, think about what the one or two important takeaway messages are. You might also want to record one or two quotes you want to come back to.
 
-Twitter
+As you read, keep a running list of other papers you see that you want to read. This keeps you from falling down an endless hole of finding new papers and never finishing anything.
 
-Colleagues
+# Finding stuff
 
-Bibliographies of other papers... especially introductions and review papers
+Google Scholar is increasingly becoming the standard. It's a great place to start. Also see the "cited by" link for any given Google Scholar paper.
 
-## Getting stuff off campus
+The Web of Science is probably the best high-quality search engine for science papers. Also see its "cited by" search option. Try sorting by descending citations to get a feeling for some of the main highly-cited papers on a topic. Also try sorting by published date to look for recent papers and find seminal papers on a topic.
 
-Ezproxy! Ezproxy! Use an Ezproxy bookmarklet. This is a bookmark in your browser with some Javascript in front of it to reload the current page through the university's proxy server. This lets you access anything the library has access to from off campus.
+Bibliographies of other papers are a great place to find important papers. Especially pay attending to introductions and review papers.
+
+Work your way backwards (cited by) and forwards (bibliography lists) until you get diminishing returns.
+
+Increasingly, Twitter is a useful place to find papers of interest.
+
+# Getting stuff off campus
+
+Ezproxy! Use an Ezproxy bookmarklet. This is a bookmark in your browser with some Javascript in front of it to reload the current page through the university's proxy server. This lets you access anything the library has access to from off campus.
 
 To create one, make a bookmark to anything at all. Call it something like `ezproxy`. Then edit the URL to your university's proxy server. For Simon Fraser University:
 
@@ -74,13 +88,13 @@ To create one, make a bookmark to anything at all. Call it something like `ezpro
 
 Now, when you're on a journal page you want to get access to, click the bookmark and enter your password. You'll only have to enter your password occasionally.
 
-## Citation managers
+# Citation managers
 
 Use one! You're nuts in this day and age to spend your time copying, pasting, re-formatting, and checking citations.
 
 Know your citation manager well and curate it. Think of it as your digital brain. As a researcher, this is one of your most important tools.
 
-###	Which one?
+##	Which one?
 
 Common and good citation managers are Zotero, Mendeley, Papers, and Bibdesk. There's also Endnote if you absolutely have to, or if you're already familiar with it.
 
@@ -96,7 +110,7 @@ Do I want an open source citation manager? If yes, that rules out Papers and End
 
 Otherwise, if you don't already have a favourite citation manager, then try a few and pick which one you like best. Don't forget to try everything you'll be doing with it. That includes making a little test document and editing the citations.
 
-### Using your citation manager effectively
+## Using your citation manager effectively
 
 Try and weed out garbage as you go (incorrect meta-data) or you're in for a world of hurt later.
 
@@ -109,4 +123,3 @@ Rely on search in your citation manager as much as possible. Is it in the title?
 Consider a tag/folder strategy. Tags can work well for broad topics (e.g. diversity-stability); folders for short-term projects (thesis chapter 1). Keep in mind that most reference manager folders aren't really folders. I.e. you can have the same paper in multiple folders.
 
 Smart folders: use them. Smart folders are a custom search you set up. The folder then stays up to date as the papers change.
-
