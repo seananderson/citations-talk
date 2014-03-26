@@ -78,7 +78,7 @@ Work your way backwards (cited by) and forwards (bibliography lists) until you g
 
 Increasingly, Twitter is a useful place to find papers of interest.
 
-# Getting stuff off campus
+# Downloading papers off campus
 
 Ezproxy! Use an Ezproxy bookmarklet. This is a bookmark in your browser with some Javascript in front of it to reload the current page through the university's proxy server. This lets you access anything the library has access to from off campus.
 
