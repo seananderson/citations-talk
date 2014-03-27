@@ -10,19 +10,29 @@ Cite a paper when first introducing a concept.
 
 If you keep talking about a concept then you probably won't cite the same paper every time. If you keep talking about a referenced topic in a paragraph, one approach is to cite at beginning and end of the paragraph.
 
-Cite as specifically as possible. E.g. "Method X has been used with cats (Johnson 2010), dogs (Smith 2010), and mice (Andrews 2011)." But, if this level of specificity is not required, move citations to the end of sentences to make your sentences easier to read. E.g. "Method X has previously been used with mice, but may not apply to dogs (Andrews 2011)." However, if the citation doesn't apply to everything before it, you'll need to sacrifice readability for correctness: "Method X has previously been used with mice (Andrews 2011), but may not apply to dogs.".
-
 Be weary of over-citing. Don't use your citations as crutches.
 
 You should be weaving a narrative around your citations, not leaving a literature dump for your reader. Interpret your citations, critically evaluate your citations, and show how they fit into your story.
 
 Use citations to acknowledge other's work, aid the reader to investigate more, and convince the reader you know what you're talking about. But in the end, remember the paper is about your science, your writing, and your thoughts. So don't cite to show off and don't cite to hide.
 
+Cite as specifically as possible. For example:
+
+> Method X has been used with cats (Johnson 2010), dogs (Smith 2010), and mice (Andrews 2011).
+
+But, if this level of specificity is not required, move citations to the end of sentences to make your sentences easier to read. For example: 
+
+> Method X has been used with mice, but may not apply to dogs (Andrews 2011).
+
+However, if the citation doesn't apply to everything before it, you'll need to sacrifice readability for correctness: 
+
+> Method X has been used with mice (Andrews 2011), but may not apply to dogs.
+
 # Who to cite
 
-Don't be afraid to cite fundamental (old) papers.
+Don't be afraid to cite foundational (old) papers.
 
-Citing a fundamental paper plus a more recent paper is a common approach.
+Citing a foundational paper plus a more recent paper is a common approach.
 
 Remember you can't cite everything. Rarely will you be completely comprehensive on a topic.
 
