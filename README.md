@@ -8,7 +8,7 @@ Opinions vary widely on when and where to cite and it's partly an art. With that
 
 Cite a paper when first introducing a concept. 
 
-If you keep talking about a concept then you probably won't cite the same paper every time. If you keep talking about a referenced topic in a paragraph, one approach is to cite at beginning and end of the paragraph.
+If you keep talking about a concept then you probably won't cite the same paper every time. If you keep talking about a referenced topic in a paragraph, one approach is to cite at the beginning and end of the paragraph.
 
 Be weary of over-citing. Don't use your citations as crutches.
 
