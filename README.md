@@ -32,6 +32,18 @@ This is a good time to think about what that *one thing* is that someone else is
 
 If you cite it you should read it. At least skim it and have a good grasp of the paper yourself. Don't rely on someone else's interpretation. This is a great opportunity to handle some old books in the library.
 
+# Plagarism
+
+Obviously, avoid intentional plagiarism.
+
+Probably a much more likely scenario is unintentionally plagiarizing. 
+
+When you're taking notes, you'll understand and remember the content of papers better anyways if you put the main points into your own words. You'll also be less likely to accidentally use somebody else's phrasing as your own. 
+
+But, sometimes it's helpful to copy quotes from papers. Develop a system so that you always know whether your notes are in your own words or somebody else's. Maybe always put quotation marks around quotes. Or put quotations in italics.
+
+Be especially careful if you're taking notes while reading another paper's introduction, since you are unlikely to cite that paper for the content of the note.
+
 # Keeping up with the literature
 
 Use [RSS feeds](https://www.youtube.com/watch?v=0klgLsSxGsU) to keep up with papers. If you don't have an RSS reader already, try [Feedly](http://feedly.com/).
@@ -68,13 +80,15 @@ As you read, keep a running list of other papers you see that you want to read. 
 
 # Finding stuff
 
-Google Scholar is increasingly becoming the standard. It's a great place to start. Also see the "cited by" link for any given Google Scholar paper.
+Google Scholar is increasingly becoming the standard. It's a great place to start. Also see the "cited by" link for any given Google Scholar paper. Consider limiting the search results to recent years if you want to check for newer papers. Or limit the search results to older years if you want to find some of the foundational work.
 
-Install this bookmarklet (see instructions in the "Downloading papers off campus" section):
+Install this bookmarklet (see instructions in the "Downloading papers off campus" section below):
+(delete the line break so it is all one line)
 
-    javascript:location = 'http://scholar.google.com/scholar?q='+escape(document.forms%5B0%5D.elements%5B'q'%5D.value);
+    javascript:location = 'http://scholar.google.com/scholar?q=
+    '+escape(document.forms%5B0%5D.elements%5B'q'%5D.value);
 
-This bookmarklet will take a regular Google search and turn it into a Google Scholar search.
+That bookmarklet will take a regular Google search and turn it into a Google Scholar search.
 
 The Web of Science is probably the best high-quality search engine for science papers. Also see its "cited by" search option. Try sorting by descending citations to get a feeling for some of the main highly-cited papers on a topic. Also try sorting by published date to look for recent papers and find seminal papers on a topic.
 
@@ -88,9 +102,10 @@ Increasingly, Twitter is a useful place to find papers of interest.
 
 Ezproxy! Use an Ezproxy bookmarklet. This is a bookmark in your browser with some Javascript in front of it to reload the current page through the university's proxy server. This lets you access anything the library has access to from off campus.
 
-To create one, make a bookmark to anything at all. Call it something like `ezproxy`. Then edit the URL to your university's proxy server. For Simon Fraser University:
+To create one, make a bookmark to anything at all. Call it something like `ezproxy`. Then edit the URL to your university's proxy server. For Simon Fraser University:  (delete the line break so it is all one line)
 
-    javascript:u=window.location.href;window.location.href='http://'+u.substring(7,u.indexOf('/',8))+'.proxy.lib.sfu.ca/'+u.substr(u.indexOf('/',8)+1);
+    javascript:u=window.location.href;window.location.href='http://'+u.substring
+    (7,u.indexOf('/',8))+'.proxy.lib.sfu.ca/'+u.substr(u.indexOf('/',8)+1);
 
 Now, when you're on a journal page you want to get access to, click the bookmark and enter your password. You'll only have to enter your password occasionally.
 
@@ -122,9 +137,9 @@ You should only rarely be entering citation meta-data by hand (like the authors,
 
 Try and weed out garbage as you go (incorrect meta-data) or you're in for a world of hurt later.
 
-Most citation managers can deal with journal abbreviations for you.
-
 On the other hand, you don't have to save everything you read. I save a PDF in my citation manager if I think I might cite it someday (or if I think it's really cool and I might want to re-read it or share it someday).
+
+Most citation managers can deal with journal abbreviations for you. Figure out how to do this — it will save you a lot of time.
 
 Throw papers into broad folders for papers you're writing or potential future papers.
 
