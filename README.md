@@ -50,7 +50,7 @@ Probably a much more likely scenario is unintentionally plagiarizing.
 
 When you're taking notes, you'll understand and remember the content of papers better if you put the main points into your own words. You'll also be less likely to accidentally use somebody else's phrasing as your own. 
 
-But, sometimes it's helpful to copy quotes from papers. Develop a system so that you always know whether your notes are in your own words or somebody else's. Maybe always put quotation marks around quotes. Or put quotations in italics.
+But, sometimes it's helpful to copy quotes from papers into your notes. Develop a system so that you always know whether your notes are in your own words or somebody else's. Maybe always put quotation marks around quotes. Or put quotations in italics. If in doubt, Google the phrase or assume you copied it.
 
 Be especially careful if you're taking notes while reading another paper's introduction, since you are unlikely to cite that paper for the content of the note.
 
@@ -127,9 +127,9 @@ Know your citation manager well and curate it. Think of it as your digital brain
 
 ##	Which one?
 
-Common and good citation managers are Zotero, Mendeley, Papers, and Bibdesk. There's also Endnote if you absolutely have to, or if you're already familiar with it.
+Common and good citation managers are [Zotero](https://www.zotero.org/), [Mendeley](http://www.mendeley.com/), [Papers](http://www.papersapp.com/), and [BibDesk](http://bibdesk.sourceforge.net/). There's also [Endnote](http://endnote.com/) if you absolutely have to, or if you're already familiar with it.
 
-Do I need MS Word compatibility? If yes, that rules out Bibdesk.
+Do I need MS Word compatibility? If yes, that rules out BibDesk.
 
 Do I mind fiddly recompiling when I edit citations? If yes, that rules out Papers.
 
@@ -157,4 +157,6 @@ Rely on search in your citation manager as much as possible. Is it in the title?
 
 Consider a tag/folder strategy. Tags can work well for broad topics (e.g. diversity-stability); folders for short-term projects (thesis chapter 1). Keep in mind that most reference manager folders aren't really folders. I.e. you can have the same paper in multiple folders.
 
-Smart folders: use them. Smart folders are a custom search you set up. The folder then stays up to date as the papers change.
+Tags work best when there's a limited number of them and they're used consistently. Develop a set of rules so your keywords are consistent. For example, maybe you always make them lower case and have no spaces.
+
+Smart folders: use them. Smart folders are a custom search you set up and assign to a folder. The folder then stays up to date as the papers change. Use these for broad topics or groups of authors that you frequently want to refer back to. Find yourself frequently making the same search? Make a smart folder for it.
