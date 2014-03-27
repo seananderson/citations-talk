@@ -48,7 +48,7 @@ Obviously, avoid intentional plagiarism.
 
 Probably a much more likely scenario is unintentionally plagiarizing. 
 
-When you're taking notes, you'll understand and remember the content of papers better anyways if you put the main points into your own words. You'll also be less likely to accidentally use somebody else's phrasing as your own. 
+When you're taking notes, you'll understand and remember the content of papers better if you put the main points into your own words. You'll also be less likely to accidentally use somebody else's phrasing as your own. 
 
 But, sometimes it's helpful to copy quotes from papers. Develop a system so that you always know whether your notes are in your own words or somebody else's. Maybe always put quotation marks around quotes. Or put quotations in italics.
 
