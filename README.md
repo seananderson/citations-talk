@@ -16,6 +16,8 @@ You should be weaving a narrative around your citations, not leaving a literatur
 
 Use citations to acknowledge other's work, aid the reader to investigate more, and convince the reader you know what you're talking about. But in the end, remember the paper is about your science, your writing, and your thoughts. So don't cite to show off and don't cite to hide.
 
+Read papers by particularly good writers in your field and think about when, where, and how frequently they cite. Think about what citation styles help you as a reader and which ones hinder. 
+
 Cite as specifically as possible. For example:
 
 > Method X has been used with cats (Johnson 2010), dogs (Smith 2010), and mice (Andrews 2011).
