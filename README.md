@@ -1,12 +1,12 @@
 % Citations and Citation Managers
 % Sean C. Anderson
-% March 2014
+% SFU Grad Caucus Publishing Workshop, April 2014
 
 # When to cite
 
 Opinions vary widely on when, where, and how often to cite and it's partly an art. With that in mind:
 
-Cite a paper when first introducing a concept. 
+Cite a paper when first introducing a concept.
 
 If you keep writing about a concept then you probably won't cite the same paper every time. If you keep writing about a referenced topic in a paragraph, one approach is to cite at the beginning and end of the paragraph.
 
@@ -16,17 +16,17 @@ You should be weaving a narrative around your citations, not leaving a literatur
 
 Use citations to acknowledge others' work, aid the reader to investigate more, and convince the reader you know what you're talking about. But in the end, remember the paper is about your science, your writing, and your thoughts. So don't cite to show off and don't cite to hide.
 
-Read papers by particularly good writers in your field and think about when, where, and how frequently they cite. Think about what citation styles help you as a reader and which ones hinder. 
+Read papers by particularly good writers in your field and think about when, where, and how frequently they cite. Think about what citation styles help you as a reader and which ones hinder.
 
 Cite as specifically as possible. For example:
 
 > Method X has been used with cats (Johnson 2010), dogs (Smith 2010), and mice (Andrews 2011).
 
-But, if this level of specificity is not required, move citations to the end of sentences to make your sentences easier to read. For example: 
+But, if this level of specificity is not required, move citations to the end of sentences to make your sentences easier to read. For example:
 
 > Method X has been used with mice, but may not apply to dogs (Andrews 2011).
 
-However, if the citation doesn't apply to everything before it, you'll need to sacrifice readability for correctness: 
+However, if the citation doesn't apply to everything before it, you'll need to sacrifice readability for correctness:
 
 > Method X has been used with mice (Andrews 2011), but may not apply to dogs.
 
@@ -48,17 +48,23 @@ If you cite it you should read it. At least skim it and have a good grasp of the
 
 Obviously, avoid intentional plagiarism.
 
-Probably a much more likely scenario is unintentionally plagiarizing. 
+<http://www.lib.sfu.ca/help/writing/plagiarism>
 
-When you're taking notes, you'll understand and remember the content of papers better if you put the main points into your own words. You'll also be less likely to accidentally use somebody else's phrasing as your own. 
+Probably a much more likely scenario is unintentionally plagiarizing.
+This is a serious issue [that can happen to anyone](http://www.theguardian.com/environment/2014/apr/01/jane-goodall-seeds-of-hope-plagiarism).
 
-But, sometimes it's helpful to copy quotes from papers into your notes. Develop a system so that you always know whether your notes are in your own words or somebody else's. Maybe always put quotation marks around quotes. Or put quotations in italics. If in doubt, Google the phrase or assume you copied it.
+When you're taking notes, you'll understand and remember the content of papers better if you put the main points into your own words. You'll also be less likely to accidentally use somebody else's phrasing as your own.
+
+But, sometimes it's helpful to copy quotes from papers into your notes. Develop a system so that you always know whether your notes are in your own words or somebody else's. Maybe always put quotation marks around quotes. Or put quotations in italics. If in doubt, assume you copied it (or Google the phrase).
 
 Be especially careful if you're taking notes while reading another paper's introduction, since you are unlikely to cite that paper for the content of the note.
 
+
 # Keeping up with the literature
 
-Use [RSS feeds](https://www.youtube.com/watch?v=0klgLsSxGsU) to keep up with papers. If you don't have an RSS reader already, try [Feedly](http://feedly.com/).
+Use [RSS feeds](https://www.youtube.com/watch?v=0klgLsSxGsU) to keep up with papers. If you don't have an RSS reader already, try [Feedly](http://feedly.com/) or [Digg Reader](http://digg.com/login?next=%2Freader).
+
+You can find RSS feed links on journal websites. [Here's my list](https://dl.dropboxusercontent.com/u/254940/ecology-rss.opml) of ecology-journal RSS feeds, which you should be able to import into any feed reader.
 
 If your feed reader has them, use smart folders to highlight topics you're interested in. E.g. filter for all papers that have some keyword in the title or abstract or filter for all papers by a set of authors you're interested in.
 
@@ -66,7 +72,7 @@ Don't drown in all the papers. Don't feel guilty skimming titles and marking all
 
 If you really don't want to use RSS, then sign up for email table-of-contents alerts.
 
-Read narrowly and broadly. Read intensely on your specific topic. But, also occasionally read outside your topic. This is important for your development as a scientist. It gives you the tools and awareness to ask interesting questions and solve problems creatively. 
+Read narrowly and broadly. Read intensely on your specific topic. But, also occasionally read outside your topic. This is important for your development as a scientist. It gives you the tools and awareness to ask interesting questions and solve problems creatively.
 
 One way to read broadly, is to follow some overview-style journals like Trends in Ecology and Evolution and Frontiers in Ecology and the Environment. Many ecology journals now have review articles too.
 
@@ -78,13 +84,9 @@ Use citation alerts. The Google Scholar ones are good. You set up search terms a
 
 Google Scholar is increasingly becoming the standard. It's a great place to start. Also see the "cited by" link for any given Google Scholar paper. Consider limiting the search results to recent years if you want to check for newer papers. Or limit the search results to older years if you want to find some of the foundational work.
 
-Install this bookmarklet (see instructions in the "Downloading papers off campus" section below):
-(delete the line break so it is all one line)
-
-    javascript:location = 'http://scholar.google.com/scholar?q=
-    '+escape(document.forms%5B0%5D.elements%5B'q'%5D.value);
-
-That bookmarklet will take a regular Google search and turn it into a Google Scholar search.
+Install this "Scholarfy" bookmarklet:\
+<https://people.cam.cornell.edu/~jugander/scholarfy.html>.\
+Then, when you've done a regular Google search for something, click the bookmarklet and it will transfer the search to Google Scholar.
 
 The Web of Science is probably the best high-quality search engine for science papers. Also see its "cited by" search option. Try sorting by descending citations to get a feeling for some of the main highly-cited papers on a topic. Also try sorting by published date to look for recent papers and find seminal papers on a topic.
 
@@ -98,10 +100,15 @@ Increasingly, Twitter is a useful place to find papers of interest.
 
 Ezproxy! Use an Ezproxy bookmarklet. This is a bookmark in your browser with some Javascript in front of it to reload the current page through the university's proxy server. This lets you access anything the library has access to from off campus.
 
-To create one, make a bookmark to anything at all. Call it something like `ezproxy`. Then edit the URL to your university's proxy server. For Simon Fraser University:  (delete the line break so it is all one line)
+<!--To create one, make a bookmark to anything at all. Call it something like `ezproxy`. Then edit the URL to your university's proxy server. For Simon Fraser University:  (delete the line break so it is all one line)-->
 
-    javascript:u=window.location.href;window.location.href='http://'+u.substring
-    (7,u.indexOf('/',8))+'.proxy.lib.sfu.ca/'+u.substr(u.indexOf('/',8)+1);
+  <!--javascript:u=window.location.href;window.location.href='http://'+u.substring-->
+  <!--(7,u.indexOf('/',8))+'.proxy.lib.sfu.ca/'+u.substr(u.indexOf('/',8)+1);-->
+
+Use this website to generate the bookmarklet for you:\
+<http://wolstenhol.me/sites/projects/ezproxy/>
+
+Enter `http://proxy.lib.sfu.ca/login?url=` and click `Make bookmarklet!`. Then drag the button called `via EzProxy` to your bookmarks bar.
 
 Now, when you're on a journal page you want to get access to, click the bookmark and enter your password. You'll only have to enter your password occasionally.
 
