@@ -8,7 +8,7 @@ Opinions vary widely on when, where, and how often to cite and it's partly an ar
 
 Cite a paper when first introducing a concept. 
 
-If you keep talking about a concept then you probably won't cite the same paper every time. If you keep talking about a referenced topic in a paragraph, one approach is to cite at the beginning and end of the paragraph.
+If you keep writing about a concept then you probably won't cite the same paper every time. If you keep writing about a referenced topic in a paragraph, one approach is to cite at the beginning and end of the paragraph.
 
 Be weary of over-citing. Don't use your citations as crutches.
 
@@ -74,22 +74,6 @@ If you really want to read broadly, try sitting down at the library occasionally
 
 Use citation alerts. The Google Scholar ones are good. You set up search terms and get an email whenever new papers come out with those terms. Or, pick three or four key papers on your topic, and get notified whenever someone new cites those papers. This will capture new papers in journals you don't follow in your RSS feeds (or in your email table-of-contents alerts).
 
-# Taking notes
-
-There are many different strategies for note taking. What's important is that you do take notes and that you have some sort of system so that you can quickly find them again.
-
-[Evernote](https://evernote.com) is a popular option.
-
-Some citation managers will let you store your notes with your citations.
-
-There are at least two common kinds of notes on what you read: (1) notes you want to keep with the literature so you can remember what you thought when you come back to the paper later for some project, and (2) notes on what you want to take away from a paper for a specific project you're working on.
-
-I tend to keep the first kind of notes in my reference manager and the second type in Evernote, a plaintext document, or a spreadsheet.
-
-When you're taking notes, think about what the one or two important takeaway messages are. You might also want to record one or two quotes you want to come back to.
-
-As you read, keep a running list of other papers you see that you want to read. This keeps you from falling down an endless hole of finding new papers and never finishing anything.
-
 # Finding stuff
 
 Google Scholar is increasingly becoming the standard. It's a great place to start. Also see the "cited by" link for any given Google Scholar paper. Consider limiting the search results to recent years if you want to check for newer papers. Or limit the search results to older years if you want to find some of the foundational work.
@@ -120,6 +104,23 @@ To create one, make a bookmark to anything at all. Call it something like `ezpro
     (7,u.indexOf('/',8))+'.proxy.lib.sfu.ca/'+u.substr(u.indexOf('/',8)+1);
 
 Now, when you're on a journal page you want to get access to, click the bookmark and enter your password. You'll only have to enter your password occasionally.
+
+# Taking notes
+
+There are many different strategies for note taking. What's important is that you do take notes and that you have some sort of system so that you can quickly find them again.
+
+[Evernote](https://evernote.com) is a popular option.
+
+Some citation managers will let you store your notes with your citations.
+
+There are at least two common kinds of notes on what you read: (1) notes you want to keep with the literature so you can remember what you thought when you come back to the paper later for some project, and (2) notes on what you want to take away from a paper for a specific project you're working on.
+
+I tend to keep the first kind of notes in my reference manager and the second type in Evernote, a plaintext document, or a spreadsheet.
+
+When you're taking notes, think about what the one or two important takeaway messages are. You might also want to record one or two quotes you want to come back to.
+
+As you read, keep a running list of other papers you see that you want to read. This keeps you from falling down an endless hole of finding new papers and never finishing anything.
+
 
 # Citation managers
 
